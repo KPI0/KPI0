@@ -1,5 +1,3 @@
-![KPI0's GitHub stats](https://github-readme-stats.vercel.app/api?username=KPI0&show_icons=true&theme=midnight-purple)  
-
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
