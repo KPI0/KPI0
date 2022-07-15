@@ -27,5 +27,5 @@ jobs:
           # Options
           user: KPI0
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
