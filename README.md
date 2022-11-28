@@ -1,5 +1,3 @@
 ![Metrics](/github-metrics.svg)
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/KPI0/count.svg" />
-</p>
+
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/count.svg)](https://kpi0.github.io/) visitor, Thank You!🎉🎉
