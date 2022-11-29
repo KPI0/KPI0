@@ -7,8 +7,10 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/cou
 [![](https://img.shields.io/badge/-Proteus-FFFFFF?style=for-the-badge&logo=React&logoColor=000000)](https://www.labcenter.com/)
 [![](https://img.shields.io/badge/-STM32-FFFFFF?style=for-the-badge&logo=STMicroelectronics&logoColor=000000)](https://www.st.com/)
 
+<!--
 #### Contact me
 [![](https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=000000)](mailto:kkb6969a@gmail.com)
+-->
 
 <!-- GitHub数据统计 -->
 ![Metrics](/github-metrics.svg)
