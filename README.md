@@ -8,6 +8,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/cou
 [![](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=for-the-badge&logo=Ubuntu&logoColor=000000)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-Altium%20Designer-FFFFFF?style=for-the-badge&logo=Altium%20Designer&logoColor=000000)](https://www.altium.com/)
 [![](https://img.shields.io/badge/-STM32-FFFFFF?style=for-the-badge&logo=STMicroelectronics&logoColor=000000)](https://www.st.com/)
+![](https://img.shields.io/badge/-C-FFFFFF?style=for-the-badge&logo=C&logoColor=000000)
 
 <!--
 #### Contact me
