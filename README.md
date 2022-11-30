@@ -1,6 +1,9 @@
 <!-- 打字特效：https://readme-typing-svg.herokuapp.com/demo/ -->
 <!-- Emoji表情：https://emojixd.com/ -->
 <!-- icon：https://simpleicons.org/、https://shields.io/ -->
+<!-- Github Readme Activity Graph：https://ashutosh00710.github.io/github-readme-activity-graph/ -->
+<!-- 贪吃蛇：https://platane.github.io/snk/ -->
+
 ![](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=000000&width=435&lines=Hello+friends+%F0%9F%96%90%EF%B8%8F)
 
 <!-- 首页访客统计：https://profile-counter.glitch.me/username/count.svg -->
