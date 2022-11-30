@@ -3,6 +3,7 @@
 <!-- icon：https://simpleicons.org/、https://shields.io/ -->
 <!-- Github Readme Activity Graph：https://ashutosh00710.github.io/github-readme-activity-graph/ -->
 <!-- 贪吃蛇：https://platane.github.io/snk/ -->
+<!-- Visitor Badge：https://visitor-badge.glitch.me/ -->
 
 ![](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&color=000000&vCenter=true&width=435&lines=Hello+friends+%F0%9F%96%90%EF%B8%8F)
 
@@ -17,10 +18,14 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/cou
 [![](https://img.shields.io/badge/-STM32-FFFFFF?style=for-the-badge&logo=STMicroelectronics&logoColor=000000)](https://www.st.com/)
 ![](https://img.shields.io/badge/-C-FFFFFF?style=for-the-badge&logo=C&logoColor=000000)
 
-<!--
+
 #### Contact me
 [![](https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=000000)](mailto:kkb6969a@gmail.com)
--->
+[![](https://img.shields.io/badge/-Facebook-FFFFFF?style=for-the-badge&logo=Facebook&logoColor=000000)](https://www.facebook.com/hushuode/)
+[![](https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=000000)](https://twitter.com/hushuode)
+[![](https://img.shields.io/badge/-WeChat-FFFFFF?style=for-the-badge&logo=WeChat&logoColor=000000)|(https://github.com/KPI0/KPI0.github.io/blob/master/images/WeChat.png)
+[![](https://img.shields.io/badge/-QQ-FFFFFF?style=for-the-badge&logo=Tencent%20QQ&logoColor=000000)](https://github.com/KPI0/KPI0.github.io/blob/master/images/QQ.jpg)
+
 
 <!-- GitHub数据统计：https://metrics.lecoq.io/ -->
 ![Metrics](/github-metrics.svg)
