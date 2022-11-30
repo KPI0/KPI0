@@ -1,10 +1,7 @@
-<!--
-打字特效
-https://readme-typing-svg.herokuapp.com/demo/
--->
+<!--打字特效生成网站：https://readme-typing-svg.herokuapp.com/demo/-->
 ![](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=000000&width=435&lines=Hello+friends+%F0%9F%96%90%EF%B8%8F)
 
-<!-- 首页访客统计 -->
+<!-- 首页访客统计生成网站：https://profile-counter.glitch.me/username/count.svg-->
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/count.svg)](https://kpi0.github.io/) visitor, Thank You! 🎉🎉<br>
 
 #### OS & Skill
@@ -20,5 +17,5 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/cou
 [![](https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=000000)](mailto:kkb6969a@gmail.com)
 -->
 
-<!-- GitHub数据统计 -->
+<!-- GitHub数据统计生成网站：https://metrics.lecoq.io/ -->
 ![Metrics](/github-metrics.svg)
