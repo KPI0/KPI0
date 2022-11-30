@@ -23,7 +23,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/cou
 [![](https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=000000)](mailto:kkb6969a@gmail.com)
 [![](https://img.shields.io/badge/-Facebook-FFFFFF?style=for-the-badge&logo=Facebook&logoColor=000000)](https://www.facebook.com/hushuode/)
 [![](https://img.shields.io/badge/-Twitter-FFFFFF?style=for-the-badge&logo=Twitter&logoColor=000000)](https://twitter.com/hushuode)
-[![](https://img.shields.io/badge/-WeChat-FFFFFF?style=for-the-badge&logo=WeChat&logoColor=000000)|(https://github.com/KPI0/KPI0.github.io/blob/master/images/WeChat.png)
+[![](https://img.shields.io/badge/-WeChat-FFFFFF?style=for-the-badge&logo=WeChat&logoColor=000000)](https://github.com/KPI0/KPI0.github.io/blob/master/images/WeChat.png)
 [![](https://img.shields.io/badge/-QQ-FFFFFF?style=for-the-badge&logo=Tencent%20QQ&logoColor=000000)](https://github.com/KPI0/KPI0.github.io/blob/master/images/QQ.jpg)
 
 
