@@ -21,8 +21,6 @@ icon：https://simpleicons.org/ 、https://shields.io/
 
 #### OS & Skill & IDE
 [![](https://img.shields.io/badge/-Windows-FFFFFF?style=for-the-badge&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
-[![](https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
-[![](https://img.shields.io/badge/-Windows-FFFFFF?style=flat&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
 [![](https://img.shields.io/badge/-Android-FFFFFF?style=for-the-badge&logo=Android&logoColor=000000)](https://www.android.com/)
 [![](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=for-the-badge&logo=Ubuntu&logoColor=000000)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-Altium%20Designer-FFFFFF?style=for-the-badge&logo=Altium%20Designer&logoColor=000000)](https://www.altium.com/)
