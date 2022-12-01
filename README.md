@@ -4,7 +4,7 @@
 <!-- Visitor Badge：https://visitor-badge.glitch.me/ -->
 
 <!-- 打字特效：https://readme-typing-svg.herokuapp.com/demo/ -->
-![](https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&pause=1000&color=000000&vCenter=true&width=435&lines=Hello+friends+%F0%9F%96%90%EF%B8%8F)
+![](https://readme-typing-svg.herokuapp.com?font=Courgette&size=28&pause=1000&color=000000&vCenter=true&width=435&lines=Hello+friends+%F0%9F%91%8B)
 
 <!-- 访客统计：https://profile-counter.glitch.me/username/count.svg -->
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/count.svg)](https://kpi0.github.io/) visitor, Thank You! 🎉🎉<br>
