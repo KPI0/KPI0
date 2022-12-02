@@ -32,11 +32,14 @@ icon：https://simpleicons.org/ 、https://shields.io/
 [![](https://img.shields.io/badge/-STM32-FFFFFF?style=flat-square&logo=STMicroelectronics&logoColor=000000)](https://www.st.com/)
 ![](https://img.shields.io/badge/-C-FFFFFF?style=flat-square&logo=C&logoColor=000000)
 [![](https://img.shields.io/badge/-Sublime%20Text-FFFFFF?style=flat-square&logo=Sublime%20Text&logoColor=000000)](https://www.sublimetext.com/)
-[![](https://img.shields.io/badge/-Microsoft%20Office-FFFFFF?style=flat-square&logo=Microsoft%20Office&logoColor=000000)](https://www.office.com/)
+[![](https://img.shields.io/badge/-Office-FFFFFF?style=flat-square&logo=Microsoft%20Office&logoColor=000000)](https://www.office.com/)
 [![](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=Docker&logoColor=000000)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-fuck%20Ads-FFFFFF?style=flat-square&logo=uBlock%20Origin&logoColor=000000)](https://github.com/KPI0/fuck-Ads)
 [![](https://img.shields.io/badge/-Proteus-brightgreen)](https://www.labcenter.com/)
 [![](https://img.shields.io/badge/-%E5%98%89%E7%AB%8B%E5%88%9BEDA-brightgreen)](https://lceda.cn/)
+[![](https://img.shields.io/badge/-KEIL-brightgreen)](https://www.keil.com/)
+[![](https://img.shields.io/badge/-MATLAB-brightgreen)](https://www.mathworks.com/)
+[![](https://img.shields.io/badge/-Multisim-brightgreen)](https://www.ni.com/en-us/support/downloads/software-products/download.multisim.html#452133)
 
 <!--
 #### Contact me
