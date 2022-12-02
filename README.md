@@ -29,7 +29,7 @@ icon：https://simpleicons.org/ 、https://shields.io/
 [![](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=flat-square&logo=Ubuntu&logoColor=000000)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-Altium%20Designer-FFFFFF?style=flat-square&logo=Altium%20Designer&logoColor=000000)](https://www.altium.com/)
 [![](https://img.shields.io/badge/-STM32-FFFFFF?style=flat-square&logo=STMicroelectronics&logoColor=000000)](https://www.st.com/)
-![](https://img.shields.io/badge/-C-FFFFFF?style=flat-square&logo=C&logoColor=000000)
+![](https://img.shields.io/badge/-C%20Programming%20Language-FFFFFF?style=flat-square&logo=C&logoColor=000000)
 [![](https://img.shields.io/badge/-Sublime%20Text-FFFFFF?style=flat-square&logo=Sublime%20Text&logoColor=000000)](https://www.sublimetext.com/)
 
 <!--
