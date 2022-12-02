@@ -11,12 +11,16 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/KPI0/cou
 
 <!--
 icon：https://simpleicons.org/ 、https://shields.io/
-格式一
+格式一：flat-square=扁平化+圆角
 [![](https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
-格式二
+格式二：for-the-badge=全大写字母
 [![](https://img.shields.io/badge/-Windows-FFFFFF?style=for-the-badge&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
-格式三
+格式三：flat=扁平化+直角
 [![](https://img.shields.io/badge/-Windows-FFFFFF?style=flat&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
+格式四：plastic=立体
+[![](https://img.shields.io/badge/-Windows-FFFFFF?style=plastic&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
+格式五：social=社交
+[![](https://img.shields.io/badge/-Windows-FFFFFF?style=social&logo=Windows&logoColor=000000)](https://www.microsoft.com/)
 -->
 
 #### OS & Skill & IDE
