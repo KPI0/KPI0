@@ -43,6 +43,10 @@ icon：https://simpleicons.org/ 、https://shields.io/
 [![](https://img.shields.io/badge/-MATLAB-brightgreen)](https://www.mathworks.com/)
 [![](https://img.shields.io/badge/-Multisim-brightgreen)](https://www.ni.com/en-us/support/downloads/software-products/download.multisim.html#452133)
 
+#### Contact me
+[![](https://img.shields.io/badge/-Telegram-FFFFFF?style=flat-square&logo=telegram&logoColor=000000)](https://t.me/fuck996work/)
+[![](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat-square&logo=gmail&logoColor=000000)](mailto:kkb6969a@gmail.com)
+
 <!--
 #### Contact me
 [![](https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=000000)](mailto:kkb6969a@gmail.com)
